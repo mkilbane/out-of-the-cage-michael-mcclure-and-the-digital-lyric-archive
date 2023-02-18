@@ -4,7 +4,7 @@
 
 layout: home
 ---
-**The Voice in Extremity: Michael McClure and the Digital Lyric Archive**
+# Out of the Cage: Michael McClure and the Digital Lyric Archive**
 
 Matthew Kilbane
 
