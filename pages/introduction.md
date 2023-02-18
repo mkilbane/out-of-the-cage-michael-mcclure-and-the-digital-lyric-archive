@@ -6,7 +6,7 @@ permalink: introduction
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 
-##1.
+## 1.
 
 Over the last three decades, the accelerating digitization of literary audio collections in institutions around the world has made possible for communities of poetic practice and scholarship a range of new objects and innovating methods of analysis. Bending their ear to recordings readily accessible on repositories like UbuWeb (1996), PennSound (2005), and SpokenWeb (2010), or in the digitized collections of university libraries and other heritage institutions, critics can now open the sonorous performance of poets and performers to digital tools that permit us to listen differently, raising and answering new questions about the history of modern and contemporary poetry. 
 
@@ -17,7 +17,7 @@ I would also like to use this opportunity to reflect in a more speculative mood 
 But what does it mean to study older media artifacts, from the printed poem to the tape-recorded poetry performance, via digital interfaces? What transformative possibilities and what latent, deforming incompatibilities emerge in the confrontation between the longer intermedial history of poetry—a history we can flag with the word “lyric”—and the digital technologies that allow us to read (and see, and hear) that history like never before?
 The harder one looks at the digital lyric archive, the harder it is to theorize. But one way of defining its contours is to confirm what it’s not. And that, it turns out, is instructively easy. It is not an isolation tank. 
 
-##2. 
+## 2. 
 
 In the annotated recording below, listeners will hear the American poet Michael McClure (1932-2020) read from his book Ghost Tantras (1964) at the Naropa Institute on June 16, 1976. This recording is held in both the Naropa Archives and the Michael McClure fonds at Simon Frasier University, a SpokenWeb partner. The poems in Ghost Tantras dip in and out of what McClure calls “beast language,” an ecstatic register of leonine nonsense that mimics the guttural growls and roars of large mammals. Rather infamously, McClure read a selection of these poems to the lions at the San Francisco Zoo, an escapade captured in a 1966 episode of the documentary series USA Poetry, developed by poet and Beat associate Richard O. Moore:
 
@@ -51,7 +51,7 @@ Lilly’s The Deep Self: Profound Relaxation and the Tank Isolation Technique (1
 
 McClure supposes that reciting the poem, “by heart” (page-less), isolated (audience-less), and floating in the tank (bodiless) will make no “difference” (“what difference would it make here?”) as if the poem’s efficaciousness were somehow a matter of pages, audiences, and bodies. Perhaps this particular scene of reading/listening inspired McClure to read the poem because it recalled the “perfect time” spent listening to the snow leopard’s growl, that moment he found himself “surrounded by the physicality of her speech… a real thing in the air…the purest, most perfect music I have ever heard,” unable to “hear and feel and see [anything] else.” I have never recited a poem in a sensory deprivation tank, but I suspect that one hears one’s voice as if from the inside, by means of what the poet calls “the inner organs of perception.” So interiorized is this mode of listening that McClure demurs at any suggestion of materialization. In “A Mammal Gallery,” he describes listening to a tape recording of the snow leopard’s performance—“more beautiful than any composition of Mozart”—and studiously declining to privilege its preservation (Scratching 156). “The tape is a work of art as we listen. But we have no desire to add it to the universe of media and plastic artifacts. We see, hear, feel through the veil. WE are translated.”
 
-##3.
+## 3.
 
 The digitized recording linked below belongs to that slice of the “universe of media and plastic artifacts” I’m calling the digital lyric archive. I’ve seized on this bit of paratextual patter from McClure’s reading because the idea of reciting beast language in Lilly’s isolation tank, the supposed spur to McClure’s performance of “Ghost Tantra 49,” offers an illuminating counter-image of what is interpretatively salient in what actually happened at Naropa on June 6, 1976. The isolation tank, in other words, is a foil for that set of difference-making material contexts to which readings of the audio archive might attend—and all the more successfully so when equipped with tools like AudiAnnotate. The keyed annotations on the next page pursue this suggestion along three observational axes, each of them central to the digital lyric archive: that of the reading voice, the situated voice, and the social voice. Attention to the reading voice strives to restore the difference made by the dynamic relationship between the performative voice and the printed page. The situated voice, meanwhile, attunes us to the institutionally mediated relation between the performer and the audience. Finally, listening for the social voice requires tarrying with the grain of address and its expressive physiological textures–the “unique voice that signifies nothing but itself,” in Adriana Cavarero’s phrase–as much as the compacted social histories those textures index (Cavarero 7).
 
