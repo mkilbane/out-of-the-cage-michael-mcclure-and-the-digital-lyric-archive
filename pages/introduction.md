@@ -23,7 +23,7 @@ In the annotated recording below, listeners will hear the American poet Michael 
 
 [![](https://i.ytimg.com/vi/djtmpdlXKEA/hqdefault.jpg)](https://www.youtube.com/watch?v=djtmpdlXKEA "")
 
-{{< caption >}}*Michael McClure on Poetry USA (1966)*{{< /caption >}}
+<figcaption>*Michael McClure on Poetry USA (1966)*</figcaption>
 
 If the Beat movement reached a first apogee in 1955, at the Six Gallery reading where Allen Ginsberg debuted Howl and left the audience of rowdy San Francisco hipsters “knowing,” in McClure’s words, that “at the deepest level…a barrier had been broken, that a human voice and body had been hurled against the harsh wall of America,” then perhaps McClure’s reading to lions a decade later marks one kind of farcical conclusion. There was nothing farcical about McClure’s intentions, though. Beast Language was an attempt to activate “the biological bases of poetry” (Scratching 43), a practical application of what he called “Meat Science.” “For McClure, humans are meat, and one’s expression—in its ideal state—is an incarnation of one’s mammal nature” (Davidson 87). Indeed, thanks in large part to McClure’s own essays, the critics who address themselves to his work have no trouble elaborating the ecological implications of beast language, this “mammalian communication based on a commonality of meat” (Kahn 339). Tracing beast language to its inspirations in the work of Antonin Artaud, the “biological language” of Reich, and Kundalini yoga, Douglas Kahn, for instance, has detailed how McClure’s poems are “animated by an organismic poetics under the auspices of biology, genetics, ecology, and mammalianism, rooted in a bioself concomitant with other creatures and elaborated by an antipolitics of biological activism” (32).
 
