@@ -23,6 +23,16 @@
         "id": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
         "type": "Canvas",
         "duration": 5297.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1-mcclure-reading-.json",
+            "label": {
+              "none": ["McClure reading "]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/paintings",
