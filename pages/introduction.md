@@ -22,8 +22,7 @@ The harder one looks at the digital lyric archive, the harder it is to theorize.
 In the annotated recording below, listeners will hear the American poet Michael McClure (1932-2020) read from his book Ghost Tantras (1964) at the Naropa Institute on June 16, 1976. This recording is held in both the Naropa Archives and the Michael McClure fonds at Simon Frasier University, a SpokenWeb partner. The poems in Ghost Tantras dip in and out of what McClure calls “beast language,” an ecstatic register of leonine nonsense that mimics the guttural growls and roars of large mammals. Rather infamously, McClure read a selection of these poems to the lions at the San Francisco Zoo, an escapade captured in a 1966 episode of the documentary series USA Poetry, developed by poet and Beat associate Richard O. Moore:
 
 [![](https://i.ytimg.com/vi/djtmpdlXKEA/hqdefault.jpg)](https://www.youtube.com/watch?v=djtmpdlXKEA "")
-<figcaption>*Michael McClure on Poetry USA (1966)*</figcaption>
-
+*Michael McClure on Poetry USA (1966)*
 
 If the Beat movement reached a first apogee in 1955, at the Six Gallery reading where Allen Ginsberg debuted Howl and left the audience of rowdy San Francisco hipsters “knowing,” in McClure’s words, that “at the deepest level…a barrier had been broken, that a human voice and body had been hurled against the harsh wall of America,” then perhaps McClure’s reading to lions a decade later marks one kind of farcical conclusion. There was nothing farcical about McClure’s intentions, though. Beast Language was an attempt to activate “the biological bases of poetry” (Scratching 43), a practical application of what he called “Meat Science.” “For McClure, humans are meat, and one’s expression—in its ideal state—is an incarnation of one’s mammal nature” (Davidson 87). Indeed, thanks in large part to McClure’s own essays, the critics who address themselves to his work have no trouble elaborating the ecological implications of beast language, this “mammalian communication based on a commonality of meat” (Kahn 339). Tracing beast language to its inspirations in the work of Antonin Artaud, the “biological language” of Reich, and Kundalini yoga, Douglas Kahn, for instance, has detailed how McClure’s poems are “animated by an organismic poetics under the auspices of biology, genetics, ecology, and mammalianism, rooted in a bioself concomitant with other creatures and elaborated by an antipolitics of biological activism” (32).
 
@@ -45,11 +44,13 @@ McClure explains his newfound resolution to read the poem by pointing to a recen
 
 The reference to John Lilly, the neurophysicist-turned-cetologist-cum-“cosmonaut of heightened consciousness,” is curiously overdetermined (Burnett 14). Emerging from the same incipient “culture of feedback” that would come to characterize ecological thought in the 1970s, McClure’s beast language parallels, in an eccentric key, the experimental work Lilly had begun in the late 1950s on the intelligence of bottlenose dolphins and possibilities for interspecies communication, as documented in Man and Dolphin (1961) and The Mind of the Dolphin (1967) (see Belgrad 138-73). And yet at the same time that he was researching dolphins, Lilly was also responsible for major contributions to the field of sensory-deprivation research, including the invention of the water-immersion isolation tank. As D. Graham Burnett has detailed, such work had its roots military intelligence and efforts to experimentally bolster “the imperviousness and durability of the Cold War human agent” (23). And yet by the late sixties, his cetological research largely discredited, “Lilly [had] left the world that made him—the world of the Cold War biosciences—behind” for newfound prominence as “a major-minor figure of the pacifist, drug-friendly, ecosensitized counterculture” (39). This is the Lilly by McClure—the Lilly of Epsom-salt “floatation” therapy, LSD, and workshops at Esalen.
 
-[image]
+![Alt text](https://images.app.goo.gl/bZo53q2DDwKgpiCD9)
+*Cover of John Lilly’s* The Deep Self: Profound Relaxation and the Tank Isolation Technique *(1977)*
 
 Lilly’s The Deep Self: Profound Relaxation and the Tank Isolation Technique (1977) was published the year after McClure’s reading. It includes the logs of “scores of men and women volunteers,” from Gregory Bateson to Burgess Meredith, “who have recorded their extraordinary experiences” in a Malibu facility with five isolation tanks. Though McClure is not featured in the book, it seems likely he made the trek, and this presumption entails an irony worth pausing over. For Lilly, the isolated flotation tank is a therapeutic means of probing interior experience by cleaving mind from body: “For a businessperson, a scientist, a professional of any sort, this is a boon: to be able to think, free of physical fatigue of the body. The method allows one to become free within a few minutes” (22). Meanwhile, the zoological expression of McClure’s beast language precisely refuses any distinction between the mind and body. “I knew that consciousness was part of the physiological body,” writes McClure, “and not separate from the rest of nature—that it was wound through, woven in, bursting out from, and pouring through all nature” (Scratching 28). In the Ghost Tantras, the unprepared passage from English to beastly nonsense and back performs the extreme dissolution of the Cartesian subject. And given that beast language so exuberantly infuses body, meat, and muscle with capacities for expression, we have to ask: why should the experience of floating in Lilly’s tank, designed to banish the body, license McClure’s reading in beast language before the Naropa audience in 1976?
 
-[image]
+![Alt text](https://allenginsberg.org/wp-content/uploads/2016/01/allenannemcclure.jpg)
+*Allen Ginsberg, John Ashbery, Dick Gallup, Anne Waldman and Michael McClure at Naropa Institute, 1976, allenginsberg.org*
 
 McClure supposes that reciting the poem, “by heart” (page-less), isolated (audience-less), and floating in the tank (bodiless) will make no “difference” (“what difference would it make here?”) as if the poem’s efficaciousness were somehow a matter of pages, audiences, and bodies. Perhaps this particular scene of reading/listening inspired McClure to read the poem because it recalled the “perfect time” spent listening to the snow leopard’s growl, that moment he found himself “surrounded by the physicality of her speech… a real thing in the air…the purest, most perfect music I have ever heard,” unable to “hear and feel and see [anything] else.” I have never recited a poem in a sensory deprivation tank, but I suspect that one hears one’s voice as if from the inside, by means of what the poet calls “the inner organs of perception.” So interiorized is this mode of listening that McClure demurs at any suggestion of materialization. In “A Mammal Gallery,” he describes listening to a tape recording of the snow leopard’s performance—“more beautiful than any composition of Mozart”—and studiously declining to privilege its preservation (Scratching 156). “The tape is a work of art as we listen. But we have no desire to add it to the universe of media and plastic artifacts. We see, hear, feel through the veil. WE are translated.”
 
@@ -66,13 +67,21 @@ Just as he feared, online collections like SpokenWeb entail the permanent possib
 **Works Cited**
 
 Belgrad, Daniel. *The Culture of Feedback: Ecological Thinking in Seventies America.* University of Chicago Press, 2019.
+
 Bernstein, Charles. “Introduction.” In *Close Listening: Poetry and the Performed Word,* edited by Charles Bernstein, 3-26. Oxford University Press, 1998.
+
 Burnett, D. Graham. “Adult Swim: How John C. Lilly Got Groovy (and Took the Dolphin with Him), 1958-1968.” In *Groovy Science: Knowledge, Innovation & American Counterculture,* edited by David Kaiser and W. Patrick McCray, 13-50. University of Chicago Press, 2016.
+
 Cavarero, Adriana. *For More Than One Voice: Toward a Phenomenology of Vocal Expression.* Translated by Paul Kottman. Stanford University Press, 2005.
+
 Davidson, Michael. *The San Francisco Renaissance: Poetics and Community at Mid-Century.* Cambridge University Press, 1989.
+
 Kahn, Douglas. *Noise, Water, Meat: A History of Sound in the Arts.* MIT Press, 2001.
+
 Lilly, John C. *The Deep Self: Consciousness Exploration in the Isolation Tank.* Gateway Books and Tapes, 2007.
+
 McClure, Michael. *Ghost Tantras.* City Lights Publishers, 2013.
-McClure, Michael. *Scratching the Beat Surface.* North Point Press, 1982.
+
+---. *Scratching the Beat Surface.* North Point Press, 1982.
 
 
