@@ -21,7 +21,7 @@ The harder one looks at the digital lyric archive, the harder it is to theorize.
 
 In the annotated recording below, listeners will hear the American poet Michael McClure (1932-2020) read from his book *Ghost Tantras* (1964) at the Naropa Institute on June 16, 1976. This recording is held in both the Naropa Archives and the Michael McClure fonds at Simon Frasier University, a SpokenWeb partner. The poems in *Ghost Tantras* dip in and out of what McClure calls “beast language,” an ecstatic register of leonine nonsense that mimics the guttural growls and roars of large mammals. Rather infamously, McClure read a selection of these poems to the lions at the San Francisco Zoo, an escapade captured in a 1966 episode of the documentary series USA Poetry, developed by poet and Beat associate Richard O. Moore:
 
-[![](https://i.ytimg.com/vi/djtmpdlXKEA/hqdefault.jpg)](https://www.youtube.com/watch?v=djtmpdlXKEA "")
+[![](https://i.ytimg.com/vi/djtmpdlXKEA/hqdefault.jpg)](https://www.youtube.com/watch?v=djtmpdlXKEA)
 
 *Michael McClure on Poetry USA (1966)*
 
