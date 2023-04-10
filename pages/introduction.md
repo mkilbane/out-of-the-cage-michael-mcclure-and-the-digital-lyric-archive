@@ -21,7 +21,7 @@ The harder one looks at the digital lyric archive, the harder it is to theorize.
 
 In the annotated recording below, listeners will hear the American poet Michael McClure (1932-2020) read from his book *Ghost Tantras* (1964) at the Naropa Institute on June 16, 1976. This recording is held in both the Naropa Archives and the Michael McClure fonds at Simon Frasier University, a SpokenWeb partner. The poems in *Ghost Tantras* dip in and out of what McClure calls “beast language,” an ecstatic register of leonine nonsense that mimics the guttural growls and roars of large mammals. Rather infamously, McClure read a selection of these poems to the lions at the San Francisco Zoo, an escapade captured in a 1966 episode of the documentary series USA Poetry, developed by poet and Beat associate Richard O. Moore:
 
-[![](https://i.ytimg.com/vi/djtmpdlXKEA/hqdefault.jpg)](https://www.youtube.com/watch?v=djtmpdlXKEA)
+<img src= "https://i.ytimg.com/vi/djtmpdlXKEA/hqdefault.jpg)](https://www.youtube.com/watch?v=djtmpdlXKEA" max-width="600" height="440" align="center">
 
 *Michael McClure on Poetry USA (1966)*
 
@@ -45,13 +45,13 @@ McClure explains his newfound resolution to read the poem by pointing to a recen
 
 The reference to John Lilly, the neurophysicist-turned-cetologist-cum-“cosmonaut of heightened consciousness,” is curiously overdetermined (Burnett 14). Emerging from the same incipient “culture of feedback” that would come to characterize ecological thought in the 1970s, McClure’s beast language parallels, in an eccentric key, the experimental work Lilly had begun in the late 1950s on the intelligence of bottlenose dolphins and possibilities for interspecies communication, as documented in *Man and Dolphin* (1961) and *The Mind of the Dolphin* (1967) (see Belgrad 138-73). And yet at the same time that he was researching dolphins, Lilly was also responsible for major contributions to the field of sensory-deprivation research, including the invention of the water-immersion isolation tank. As D. Graham Burnett has detailed, such work had its roots military intelligence and efforts to experimentally bolster “the imperviousness and durability of the Cold War human agent” (23). And yet by the late sixties, his cetological research largely discredited, “Lilly [had] left the world that made him—the world of the Cold War biosciences—behind” for newfound prominence as “a major-minor figure of the pacifist, drug-friendly, ecosensitized counterculture” (39). This is the Lilly by McClure—the Lilly of Epsom-salt “floatation” therapy, LSD, and workshops at Esalen.
 
-![](https://i0.wp.com/justfloat.com/wp-content/uploads/2019/07/The-Deep-Self-John-Lilly-Book-Cover-Just-Float.png?resize=665%2C1024&ssl=1)
+<img src= "https://i0.wp.com/justfloat.com/wp-content/uploads/2019/07/The-Deep-Self-John-Lilly-Book-Cover-Just-Float.png?resize=665%2C1024&ssl=1" max-width="600" height="440" align="center">
 
 *Cover of John Lilly’s* The Deep Self: Profound Relaxation and the Tank Isolation Technique *(1977)*
 
 Lilly’s *The Deep Self: Profound Relaxation and the Tank Isolation Technique* (1977) was published the year after McClure’s reading. It includes the logs of “scores of men and women volunteers,” from Gregory Bateson to Burgess Meredith, “who have recorded their extraordinary experiences” in a Malibu facility with five isolation tanks. Though McClure is not featured in the book, it seems likely he made the trek, and this presumption entails an irony worth pausing over. For Lilly, the isolated flotation tank is a therapeutic means of probing interior experience by cleaving mind from body: “For a businessperson, a scientist, a professional of any sort, this is a boon: to be able to think, free of physical fatigue of the body. The method allows one to become free within a few minutes” (22). Meanwhile, the zoological expression of McClure’s beast language precisely refuses any distinction between the mind and body. “I knew that consciousness was part of the physiological body,” writes McClure, “and not separate from the rest of nature—that it was wound through, woven in, bursting out from, and pouring through all nature” (Scratching 28). In the *Ghost Tantras*, the unprepared passage from English to beastly nonsense and back performs the extreme dissolution of the Cartesian subject. And given that beast language so exuberantly infuses body, meat, and muscle with capacities for expression, we have to ask: why should the experience of floating in Lilly’s tank, designed to banish the body, license McClure’s reading in beast language before the Naropa audience in 1976?
 
-![](https://allenginsberg.org/wp-content/uploads/2016/01/allenannemcclure.jpg)
+<img src= "https://allenginsberg.org/wp-content/uploads/2016/01/allenannemcclure.jpg" max-width="600" height="440" align="center">
 
 *Allen Ginsberg, John Ashbery, Dick Gallup, Anne Waldman and Michael McClure at Naropa Institute, 1976*
 
