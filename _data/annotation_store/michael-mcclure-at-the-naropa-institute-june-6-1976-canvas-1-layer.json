@@ -19,7 +19,16 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "source": {
+          "id": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mkilbane.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
         "selector": {
           "type": "PointSelector",
           "t": "time in hr:min:sec (displays in total sec)"
